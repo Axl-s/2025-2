@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi Portafolio - Axel Reina</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        hr {
+            border: none;
+            height: 2px;
+            background: #333;
+        }
+        img {
+            display: block;
+            margin: 10px 0;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Bienvenido a Mi Portafolio</h1>
+        <hr>
+
+        <h2>Datos Personales</h2>
+        <ul>
+            <li><strong>Nombre:</strong> Axel Jose Reina Caballero</li>
+            <li><strong>Carrera:</strong> Bachillerato en Computación en Ciencias y Letras</li>
+            <li><strong>Instituto:</strong> Instituto Profesional en Computación</li>
+            <li><strong>Correo:</strong> axelreina008@gmail.com</li>
+            <li><strong>Teléfono:</strong> 5557-1786</li>
+        </ul>
+
+        <h2>Sobre Mí</h2>
+        <p>Tengo habilidades en el manejo de Excel y conocimientos básicos de desarrollo web y programación.</p>
+
+        <h2>Imagen Representativa</h2>
+        <img src="Yo.jpg" alt="Fotografía de Axel Reina" width="300">
+    </div>
+
+</body>
+</html>

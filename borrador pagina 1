@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Currículum - Axel Jose Reina Caballero</title>
+</head>
+<body>
+    <header>
+        <h1>Currículum Vitae</h1>
+        <hr>
+    </header>
+    
+    <section>
+        <h2>Datos Personales</h2>
+        <ul>
+            <li><strong>Nombre:</strong> Axel Jose Reina Caballero</li>
+            <li><strong>Correo:</strong> axelreina008@gmail.com</li>
+            <li><strong>Teléfono:</strong> 5557-1786</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Formación Académica</h2>
+        <ul>
+            <li><strong>Carrera:</strong> Bachillerato en Computación en Ciencias y Letras</li>
+            <li><strong>Institución:</strong> Instituto Profesional en Computación</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Cursos</h2>
+        <ul>
+            <li>Manejo avanzado de Excel</li>
+            <li>Fundamentos de Desarrollo Web</li>
+            <li>Programación en Python y JavaScript</li>
+        </ul>
+    </section>
+    
+    <section>
+        <h2>Habilidades</h2>
+        <ul>
+            <li>Desarrollo web</li>
+            <li>Manejo de bases de datos</li>
+            <li>Trabajo en equipo</li>
+        </ul>
+    </section>
+    
+    <hr>
+    
+    <section>
+        <h2>Imagen Representativa</h2>
+        <figure>
+            <img src="Yo.jpg" alt="Foto de Axel Jose Reina Caballero" width="300">
+            <figcaption>Axel Jose Reina Caballero</figcaption>
+        </figure>
+    </section>
+    
+    <hr>
+    
+    <section>
+        <h2>Amigos</h2>
+        <table border="1" align="center" cellpadding="10" cellspacing="10" width="80%" bgcolor="lightblue">
+            <tr>
+                <th>Nombre</th>
+                <th>Edad</th>
+                <th>Foto</th>
+            </tr>
+            <tr>
+                <td>Amigo 1</td>
+                <td>Edad 1</td>
+                <td><img src="amigo1.jpg" alt="Amigo 1" width="150"></td>
+            </tr>
+            <tr>
+                <td>Amigo 2</td>
+                <td>Edad 2</td>
+                <td><img src="amigo2.jpg" alt="Amigo 2" width="150"></td>
+            </tr>
+            <tr>
+                <td>Amigo 3</td>
+                <td>Edad 3</td>
+                <td><img src="amigo3.jpg" alt="Amigo 3" width="150"></td>
+            </tr>
+            <tr>
+                <td>Amigo 4</td>
+                <td>Edad 4</td>
+                <td><img src="amigo4.jpg" alt="Amigo 4" width="150"></td>
+            </tr>
+        </table>
+    </section>
+</body>
+</html>
